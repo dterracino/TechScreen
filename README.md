@@ -12,5 +12,6 @@ Please follow the directions below very carefully.
 
 1. Fork this repository
 2. Complete each exercise (folder) in numeric order by modifying the contents of the folder directly
-  * **NOTE:** Try to spend no more than 30 minutes on each exercise
+  * Try to spend no more than 30 minutes on each exercise
+  * Some of the exercises are feature-/language-/platform-specific.  If you don't know about the topic, just skip that exercise. 
 3. Submit a pull request with your changes.
